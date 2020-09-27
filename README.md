@@ -5,6 +5,7 @@
 - [License](#License)
 - [Developer](#Developer)
 - [Questions](#Questions)
+- [Link](#link)
 - [Visual](#Visual)
 
 
@@ -34,7 +35,8 @@ Henry
 ## Questions
 [Github Profile](https://github.com/HenryP23)  
 You can contact me through my email henryhparrish@gmail.com
+## Link
+![ScreenShot](BurgerAppPic.PNG)
 
 ## Visual
-![ScreenShot](BurgerAppPic.PNG)
 https://agile-ocean-80125.herokuapp.com/
