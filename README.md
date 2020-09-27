@@ -35,8 +35,11 @@ Henry
 ## Questions
 [Github Profile](https://github.com/HenryP23)  
 You can contact me through my email henryhparrish@gmail.com
+
 ## Link
-![ScreenShot](BurgerAppPic.PNG)
+https://agile-ocean-80125.herokuapp.com/
 
 ## Visual
-https://agile-ocean-80125.herokuapp.com/
+![ScreenShot](BurgerAppPic.PNG)
+
+
