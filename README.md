@@ -36,4 +36,5 @@ Henry
 You can contact me through my email henryhparrish@gmail.com
 
 ## Visual
+![ScreenShot](BurgerAppPic.PNG)
 https://agile-ocean-80125.herokuapp.com/
